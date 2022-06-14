@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kovenda
-- 👀 I’m interested in Data Analysis, I have worked with technologies such as machine learning, natural language processing and regression modeling analysis.
-- 🌱 I’m currently working on a African Music Analytics Dashboard project using APIs, machine learning and regression analysis.
-- I have experience working in Python, SQL, Excel and Tableau
-- 💞️ I’m looking to collaborate on Data Analysis & Data Science Projects that are focused on Music/ Entertainment Content Analytics.
+- 👀 I’m interested in Data Science, I have worked with technologies such as Python, SQL, Excel, and Tableau. 
+- 🌱 I like building Analytics Dashboards in Tableau and using APIs to pull data and ETL using SQL for machine learning and regression analysis in R and Python.
+-  I have knowledge in statistical analysis, machine learning, natural language processing and Analysis of Variance (ANOVA).
+- 💞️ I’m looking to collaborate on Data Analysis & Data Science Projects.
 - 📫 How to reach me: mbuako01@luther.edu 
 
 <!---

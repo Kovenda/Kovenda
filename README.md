@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kovenda
-- 👀 I’m interested in Data Science, I have worked with technologies such as Python, SQL, Excel, and Tableau. 
+- 👀 I’m interested in Data Science, I have worked with technologies such as Python, R, SQL, Tableau and Excel. 
 - 🌱 I like building Analytics Dashboards in Tableau and using APIs to pull data and ETL using SQL for machine learning and regression analysis in R and Python.
--  I have knowledge in statistical analysis, machine learning, natural language processing and Analysis of Variance (ANOVA).
+-  I have knowledge in statistical analysis, machine learning, deep learning and Analysis of Variance (ANOVA).
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me: mbuako01@luther.edu 
 

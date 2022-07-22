@@ -1,28 +1,52 @@
-- 👋 Hi, I’m **@Kovenda Mbuale**, a 2022 MAY **Bachelors in Data Science** graduate from @LutherCollege
--  I recently interned at **@MayoClinic** as **DATA SCIENCE ANALYST**
-- 👀 As a Data Science Analyst, I work with these technologies: **Python, R, SQL, Tableau**, and **Excel**. 
-- I have exeprience in **DATA SCIENCE, DATA ENGINEERING** and **DATA ANALYSIS**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kovenda Mbuale
+======================================================================================================================================
 
-**My Extract, Transform, Load (ETL) Process** using Python, POSTGRESQL, AWS-RDS, and pgAdmin 4:
-- 🌱 I do data EXTRACTION from applications using Python's Request Library to call the applications' REST APIs
--  I Transforam JSON response from the API into a Python's PANDAS DataFrame
--  I then clean the data using python's PANDAS and NumPy Libraries
--  connect to AWS-RDS PostGRESQL database and load the data from the DataFrame into database TABLES in specific SCHEMAS using SQL Wrapped in Python Code
--  I finally automate this process of API call - JSON to pandas.DF - pandas.DF to POSTGRESQL AWS-RDS database by using Python Functions and SQL INSERT and UPDATE querries and wrapping all that into a SCHEDULER
+Data Analytics | Data Science | Machine Learning | Deep Learning
+----------------------------------------------------------------
 
-**My Data Analysis Process** using SQL, Tableau, Python and R:
-- I first pull and join different Tables from the database using SQL
-- I then convert the joined tables into pandas.DFs
-- After that I do Data Exploratory Visualizations using Pyhton and R's seaborn, ggplot and Matplot libraries
-- I then build **Analytics Dashboards** in **Tableau** and share them on @TableauPublic
-- Finally I analyse the data using various Regression Analysis and Machine learning techinques using R and Python libraries 
-- And also from time to time build Deep Learning models 
+I love building ETL pipelines by combining SQL queries into Python functions, dashboarding in Tableau with additional visualizations using ggplot2, seaborn, and matplotlib, data exploration with SQL and Pandas, stats data analytics in R with NumPy, and building machine learning solutions in Python and R (yes that's a thing too if you live in Rstudio's markdown files). Although I prefer staying in google collab notebooks because it's well optimized for git version control). I have AWS cloud experience building PostgreSQL relational databases. I also have experience with computer vision and NLP text sentiment analysis in excel and Python.
 
-**Currently:** *looking for opportunities in Data Science: Data Analyst, Data Scientist, Data Engineer or Data Science Product Manager
-- 💞️ I’m also looking to collaborate on Data Science Projects here on github.
-- 📫 If have any questions, suggestions or offers reach out to me: mbuako01@luther.edu | +1 (507) 405-9754
+* 🌍  I'm based in United States
+* 🖥️  See my portfolio at [Visualizations@TableauPublic](http://public.tableau.com/app/profile/kovenda)
+* ✉️  You can contact me at [mbuako01@luther.edu](mailto:mbuako01@luther.edu)
+* 🤝  I'm open to collaborating on Data Science, Data Analytics, Machine Learning and Deep Learning projects
+* ⚡  My passion for data storytelling is driven by the need to prioritize people so that they do not feel unconsidered.
 
-<!---
-Kovenda/Kovenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.github.com/kovenda" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kovenda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/kovenda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kovenda-mbuale-b05453139" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/kovenda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/kovenda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kovenda"><img src="https://github-readme-stats.vercel.app/api?username=kovenda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kovenda's GitHub stats" /></a>
+
+<a href="http://www.github.com/kovenda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kovenda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/kovenda"><img src="https://activity-graph.herokuapp.com/graph?username=kovenda&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/kovenda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovenda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/kovendaMBUALE"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

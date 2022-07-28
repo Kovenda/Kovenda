@@ -6,7 +6,7 @@ Data Analytics | Data Science | Machine Learning | Deep Learning
 
 I love building ETL pipelines by combining SQL queries into Python functions, dashboarding in Tableau with additional visualizations using ggplot2, seaborn, and matplotlib, data exploration with SQL and Pandas, stats data analytics in R with NumPy, and building machine learning solutions in Python and R (yes that's a thing too if you live in Rstudio's markdown files). Although I prefer staying in google collab notebooks because it's well optimized for git version control). I have AWS cloud experience building PostgreSQL relational databases. I also have experience with computer vision and NLP text sentiment analysis in excel and Python.
 
-* 🌍  I'm based in United States
+* 🌍  I'm based: USA
 * 🖥️  See my portfolio at [Visualizations@TableauPublic](http://public.tableau.com/app/profile/kovenda)
 * ✉️  You can contact me at [mbuako01@luther.edu](mailto:mbuako01@luther.edu)
 * 🤝  I'm open to collaborating on Data Science, Data Analytics, Machine Learning and Deep Learning projects

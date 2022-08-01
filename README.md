@@ -16,7 +16,6 @@ I love building ETL pipelines by combining SQL queries into Python functions, da
 src="https://img.shields.io/github/followers/kovenda?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/pythonlogo.png" width="100" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/rlogo.png" width="50" height="36" alt="r-programming" /></a>

@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/kovenda?logo=github&style=for-the-b
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/matplotliblogo2.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/matplotliblogo2.svg" width="60" height="36" alt="Illustrator" /></a>
 
 </p>
 

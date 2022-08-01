@@ -19,22 +19,13 @@ src="https://img.shields.io/github/followers/kovenda?logo=github&style=for-the-b
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/pythonlogo.png" width="100" height="36" alt="Python" /></a>
-
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/rlogo.png" width="36" height="36" alt="r-programming" /></a>
-
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/postgresqllogo.png" width="36" height="36" alt="PostgreSQL" /></a>
-
-
 <a href="https://public.tableau.com/app/profile/kovenda" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/tableaulogo.png" width="100" height="36" alt="Tableau" /></a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/html5logo.png" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/CSS3_logo.svg" width="36" height="36" alt="CSS3" /></a>
-
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/matplotliblogo2.svg" width="60" height="36" alt="Illustrator" /></a>
-
 </p>
 
 

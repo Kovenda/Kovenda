@@ -29,9 +29,8 @@ src="https://img.shields.io/github/followers/kovenda?logo=github&style=for-the-b
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/TF_FullColor_Stacked.png" width="90" height="60" alt="TensorFlow" /></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/matplotliblogo2.svg" width="110" height="70" alt="matplotliblogo2" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/excellogo.png" width="50" height="45" alt="excel" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/html5logo.png" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/CSS3_logo.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/html5logo.png" width="50" height="50" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/CSS3_logo.svg" width="50" height="50" alt="CSS3" /></a>
 
 </p>
 

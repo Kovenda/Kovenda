@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/kovenda?logo=github&style=for-the-b
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/pythonlogo.png" width="100" height="36" alt="Python" /></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/rlogo.png" width="36" height="36" alt="r-programming" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/rlogo.png" width="50" height="36" alt="r-programming" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/postgresqllogo.png" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://public.tableau.com/app/profile/kovenda" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/tableaulogo.png" width="100" height="36" alt="Tableau" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/Kovenda/Kovenda/blob/main/html5logo.png" width="36" height="36" alt="HTML5" /></a>
